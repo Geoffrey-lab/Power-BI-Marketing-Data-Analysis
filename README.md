@@ -1,6 +1,5 @@
 # Power-BI-Marketing-Data-Analysis
 Explore the world of Digital Marketing through a comprehensive Power BI case study. Dive into the dynamics of marketing data with step-by-step analysis, uncovering insights into customer profiles, product preferences, campaign outcomes, and channel performance.
-
 # Click link to view interactive dashboard https://app.powerbi.com/view?r=eyJrIjoiMTcwZmM1ZmQtNGQ0Ni00NWM2LTlmNjYtZjIyYTQ0NGJlOWU1IiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9&pageName=ReportSection
 
 ## Table of Contents
